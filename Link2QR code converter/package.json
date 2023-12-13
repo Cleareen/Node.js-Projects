@@ -1,0 +1,16 @@
+{
+  "name": "link_2_qr_code",
+  "version": "1.0.0",
+  "description": "Converts a given link to QR code saved in a text file",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eddie Mkansi",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0"
+  }
+}
